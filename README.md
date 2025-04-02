@@ -1,8 +1,13 @@
-<i><h2>Olá, sejam bem-vindos ao meu GitHub!<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" style="max-width: 100%;" width="25px"></h2><i>
+<i><h2>Olá, sejam bem-vindos ao meu GitHub!<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" style="max-width: 100%;" width="25px"></h2>
+<p dir="auto"><i> <strong> Entusiasta da tecnologia, curioso por inovação, aprimorando habilidades e sempre aberto a novos desafios na tecnologia.</strong> </i></p>
+<img alt="GIF" src="https://c.tenor.com/D-xKkvBWCYUAAAAd/scaler-create-impact.gif (1).gif?raw=true" style="max-width: 100%;" width="200" align="right"></i>
 
-<p>
-  <a target="_blank" rel="noopener noreferrer" href="https://github.com/JoaldoSB/JoaldoRespository/blob/master/ (1).gif?raw=true"><img alt="GIF" src="https://c.tenor.com/D-xKkvBWCYUAAAAd/scaler-create-impact.gif (1).gif?raw=true" style="max-width: 100%;" width="500" align="right"></a></p>
-<p dir="auto"><i> <strong> Apaixonado por tecnologia que busca a cada dia o aperfeiçoamento das habilidades adquiridas, mas sempre aberto a explorar novos conhecimentos.</strong> </i></p>
+![JoaldoSB's Stats](https://github-readme-stats.vercel.app/api?username=JoaldoSB&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![JoaldoSB's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaldoSB&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
+
+  
+
 <h2 dir="auto"></h2>
 <h3 dir="auto"><a id="user-content-contate-me-" class="anchor" aria-hidden="true" href="#contate-me-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><i>Contate-me <g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji></i></h3>
 <p dir="auto"><a href="https://www.linkedin.com/in/joaldo-dos-santos-barbosa/" rel="nofollow"><img alt="bilgehangecici | LinkedIn" src="https://camo.githubusercontent.com/c67f28a9a77cdb9a8c25306660a5ad0b5acd0679e2e3727f98a77785a4b62327/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4851545964707831796878577075674169322f67697068792e676966" data-canonical-src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif" style="max-width: 100%;" width="40px" align="left"></a><br></p>
